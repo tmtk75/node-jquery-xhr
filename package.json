@@ -1,7 +1,7 @@
 {
   "name": "node-jquery-xhr",
   "description": "set up jQuery and DOM tree on node",
-  "version": "2.1.3",
+  "version": "2.1.3-a",
   "author": {
     "name": "Tomotaka Sakuma",
     "email": "ktmtmks@gmail.com"
