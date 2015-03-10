@@ -1,3 +1,5 @@
+NOTE: This is deprecated. This repository has not been maintained anymore. Please see <https://github.com/tmtk75/jquery-xhr>.
+
 # node-jquery-xhr
 Provide `window`, `jQuery` and `$` to node integrating `jquery`, `jsdom` and `xmlhttprequest`.
 
